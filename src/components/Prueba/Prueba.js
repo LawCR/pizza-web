@@ -12,6 +12,7 @@ const Prueba = () => {
                 <h5>Este es un cambio hecho desde master</h5>
                 <h4>Esto lo agrego la rama4</h4>
             </div>
+            <h3>Cambio de RamaAmiigo</h3>
         </div>
     )
 }
