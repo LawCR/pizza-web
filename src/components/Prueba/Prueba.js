@@ -16,6 +16,10 @@ const Prueba = () => {
             <div>
                 <h6>Lo que nos pidieron hacer urgente mientras haciamos nuestro trabjao</h6>
             </div>
+
+            {/*  */}
+
+            <p>Prueba del stash, quiero hacer 5 parrafos, este es uno faltan 4</p>
         </div>
         
     )
