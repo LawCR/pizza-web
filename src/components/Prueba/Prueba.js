@@ -9,6 +9,7 @@ const Prueba = () => {
             <h2>Esto esta maaaaaal tambien</h2>
             <div className='Rama3'>
                 <h3>Este en un cambio hecho por la rama3</h3>
+                <h5>Este es un cambio hecho desde master</h5>
             </div>
         </div>
     )
