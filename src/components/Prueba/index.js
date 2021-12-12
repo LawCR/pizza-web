@@ -3,11 +3,11 @@ import React from 'react'
 const index = () => {
     return (
         <div>
-            <h1>Pruebaaas</h1>
-
-            <h2>Cambios simultaneos en master1</h2>
-            <h2>Cambios simultaneos en master2</h2>
+            <header>
+                <h1>Estos son cosas hechas por el master</h1>
+            </header>
         </div>
+        
     )
 }
 
